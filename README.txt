@@ -1,0 +1,1 @@
+Los pesos necesarios para text_recognition.py están en https://drive.google.com/open?id=1FimX_-l38I6wnjBAy3JKPd0cVNixTgR_
